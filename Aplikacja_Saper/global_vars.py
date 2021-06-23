@@ -1,0 +1,10 @@
+import time
+
+SQUARES_REVEALED = 0
+INIT_TIME = time.time()
+HEIGHT = 10
+WIDTH = 15
+BOMBS = 20
+BOMBS_LEFT = ""
+TIMER = 0
+LOADED=0
